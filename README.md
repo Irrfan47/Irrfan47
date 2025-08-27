@@ -129,7 +129,7 @@ I'm a passionate **Computer Science student** at Albukhary International Univers
         <a href="https://github.com/Irrfan47/Web-Application-Vulnerability-Scanner" target="_blank">
           <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
         </a>
-        <span style="color: #3B82F6;">● FYP</span>
+        <span style="color: #3B82F6;"></span>
       </p>
     </td>
   </tr>
