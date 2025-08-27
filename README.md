@@ -67,7 +67,7 @@ I'm a passionate **Computer Science student** at Albukhary International Univers
         <a href="https://github.com/Irrfan47/Kedah-Plan-Hub" target="_blank">
           <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
         </a>
-        <span style="color: #10B981;">● LIVE</span>
+        <span style="color: #10B981;"></span>
       </p>
     </td>
     <td width="50%">
@@ -87,7 +87,7 @@ I'm a passionate **Computer Science student** at Albukhary International Univers
         <a href="https://github.com/Irrfan47/helpdesk" target="_blank">
           <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
         </a>
-        <span style="color: #10B981;">● LIVE</span>
+        <span style="color: #10B981;"></span>
       </p>
     </td>
   </tr>
@@ -109,7 +109,7 @@ I'm a passionate **Computer Science student** at Albukhary International Univers
         <a href="https://github.com/Irrfan47/equipment_management_system" target="_blank">
           <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
         </a>
-        <span style="color: #10B981;">● LIVE</span>
+        <span style="color: #10B981;"></span>
       </p>
     </td>
     <td width="50%">
