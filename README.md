@@ -48,92 +48,102 @@ I'm a passionate **Computer Science student** at Albukhary International Univers
 
 ## 🎯 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Program Management System</h3>
-      <div align="center">
-        <a href="https://github.com/Irrfan47/Kedah-Plan-Hub" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Irrfan47&repo=Kedah-Plan-Hub&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-        </a>
-      </div>
-      <p align="center">
-        Platform for managing government programs with role-based access, document handling, budget tracking, and dashboards.
-      </p>
-      <p align="center">
-        <strong>Tech Stack:</strong> React, TypeScript, PHP, MySQL, Tailwind CSS, Shadcn/ui, React Query, Vite, Recharts
-      </p>
-      <p align="center">
-        <a href="https://github.com/Irrfan47/Kedah-Plan-Hub" target="_blank">
-          <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
-        </a>
-        <span style="color: #10B981;"></span>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Helpdesk System</h3>
-      <div align="center">
-        <a href="https://github.com/Irrfan47/helpdesk" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Irrfan47&repo=helpdesk&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-        </a>
-      </div>
-      <p align="center">
-        Ticket management system with authentication, real-time notifications, file attachments, and analytics dashboard.
-      </p>
-      <p align="center">
-        <strong>Tech Stack:</strong> React, TypeScript, PHP, MySQL, Tailwind CSS, Vite, Recharts
-      </p>
-      <p align="center">
-        <a href="https://github.com/Irrfan47/helpdesk" target="_blank">
-          <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
-        </a>
-        <span style="color: #10B981;"></span>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Equipment Management System</h3>
-      <div align="center">
-        <a href="https://github.com/Irrfan47/equipment_management_system" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Irrfan47&repo=equipment_management_system&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-        </a>
-      </div>
-      <p align="center">
-        System for equipment tracking, user management, CRUD operations, and PDF reporting with role-based access.
-      </p>
-      <p align="center">
-        <strong>Tech Stack:</strong> PHP, MySQL, PDO, Tailwind CSS, FontAwesome, JavaScript
-      </p>
-      <p align="center">
-        <a href="https://github.com/Irrfan47/equipment_management_system" target="_blank">
-          <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
-        </a>
-        <span style="color: #10B981;"></span>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Web Application Vulnerability Scanner</h3>
-      <div align="center">
-        <a href="https://github.com/Irrfan47/Web-Application-Vulnerability-Scanner" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Irrfan47&repo=Web-Application-Vulnerability-Scanner&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-        </a>
-      </div>
-      <p align="center">
-        Web-based security tool with modern UI for detecting vulnerabilities, featuring real-time scanning and detailed reports.
-      </p>
-      <p align="center">
-        <strong>Tech Stack:</strong> Python, Flask, Requests, BeautifulSoup, HTML, CSS, JavaScript
-      </p>
-      <p align="center">
-        <a href="https://github.com/Irrfan47/Web-Application-Vulnerability-Scanner" target="_blank">
-          <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
-        </a>
-        <span style="color: #3B82F6;"></span>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🚀 Program Management System</h3>
+        <div align="center">
+          <a href="https://github.com/Irrfan47/Kedah-Plan-Hub" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Irrfan47&repo=Kedah-Plan-Hub&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>Platform for managing government programs</strong><br/>
+          Role-based access, document handling, budget tracking, and comprehensive dashboards.
+        </p>
+        <p align="center">
+          <strong>Tech Stack:</strong><br/>
+          React • TypeScript • PHP • MySQL • Tailwind CSS • Shadcn/ui • React Query • Vite • Recharts
+        </p>
+        <p align="center">
+          <a href="https://github.com/Irrfan47/Kedah-Plan-Hub" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
+          </a>
+          <span style="color: #10B981; font-weight: bold;"></span>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎫 Helpdesk System</h3>
+        <div align="center">
+          <a href="https://github.com/Irrfan47/helpdesk" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Irrfan47&repo=helpdesk&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>Ticket management system</strong><br/>
+          Authentication, real-time notifications, file attachments, and analytics dashboard.
+        </p>
+        <p align="center">
+          <strong>Tech Stack:</strong><br/>
+          React • TypeScript • PHP • MySQL • Tailwind CSS • Vite • Recharts
+        </p>
+        <p align="center">
+          <a href="https://github.com/Irrfan47/helpdesk" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
+          </a>
+          <span style="color: #10B981; font-weight: bold;"></span>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🔧 Equipment Management System</h3>
+        <div align="center">
+          <a href="https://github.com/Irrfan47/equipment_management_system" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Irrfan47&repo=equipment_management_system&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>Equipment tracking system</strong><br/>
+          User management, CRUD operations, PDF reporting with role-based access control.
+        </p>
+        <p align="center">
+          <strong>Tech Stack:</strong><br/>
+          PHP • MySQL • PDO • Tailwind CSS • FontAwesome • JavaScript
+        </p>
+        <p align="center">
+          <a href="https://github.com/Irrfan47/equipment_management_system" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
+          </a>
+          <span style="color: #10B981; font-weight: bold;"></span>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🛡️ Web Application Vulnerability Scanner</h3>
+        <div align="center">
+          <a href="https://github.com/Irrfan47/Web-Application-Vulnerability-Scanner" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Irrfan47&repo=Web-Application-Vulnerability-Scanner&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+          </a>
+        </div>
+        <p align="center">
+          <strong>Web-based security tool</strong><br/>
+          Modern UI for detecting vulnerabilities with real-time scanning and detailed reports.
+        </p>
+        <p align="center">
+          <strong>Tech Stack:</strong><br/>
+          Python • Flask • Requests • BeautifulSoup • HTML • CSS • JavaScript
+        </p>
+        <p align="center">
+          <a href="https://github.com/Irrfan47/Web-Application-Vulnerability-Scanner" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-000000?style=for-the-badge&logo=GitHub&logoColor=white" />
+          </a>
+          <span style="color: #3B82F6; font-weight: bold;">/span>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
