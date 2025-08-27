@@ -12,10 +12,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Computer Science student** at Albukhary International University with a strong foundation in web development and a keen interest in emerging technologies. I enjoy solving complex problems and building innovative solutions that make a difference.
+I'm a passionate **Computer Science student** at Albukhary International University with a strong foundation in web development and a keen interest in building modern, scalable web applications. I enjoy solving complex problems and creating innovative solutions that make a difference.
 
 - 🔭 Currently working on **Web Application Vulnerability Scanner** (Final Year Project)
-- 🌱 Learning **Cyber Security** and advanced web development techniques
+- 🌱 Learning **Advanced Web Development** techniques and modern frameworks
 - 💼 Open to **freelance opportunities** and **collaborations**
 - 📫 Reach me at: **kaungkhant12359@gmail.com**
 
@@ -120,7 +120,7 @@ I'm a passionate **Computer Science student** at Albukhary International Univers
         </a>
       </div>
       <p align="center">
-        Python-based tool for detecting SQLi, XSS, and misconfigurations with Flask web interface and reports.
+        Web-based security tool with modern UI for detecting vulnerabilities, featuring real-time scanning and detailed reports.
       </p>
       <p align="center">
         <strong>Tech Stack:</strong> Python, Flask, Requests, BeautifulSoup, HTML, CSS, JavaScript
@@ -179,10 +179,11 @@ I'm a passionate **Computer Science student** at Albukhary International Univers
 
 ## 🎯 Current Focus
 
-- 🔒 **Cyber Security** - Learning advanced security concepts and practices
-- 🚀 **Full-Stack Development** - Building scalable web applications
-- 🤖 **AI/ML Integration** - Exploring AI-powered features in web apps
-- 📱 **Mobile Development** - Expanding to cross-platform mobile solutions
+- 🚀 **Full-Stack Development** - Building scalable web applications with modern frameworks
+- ⚡ **Performance Optimization** - Creating fast, responsive, and efficient web experiences
+- 🎨 **UI/UX Design** - Crafting beautiful and intuitive user interfaces
+- 🔧 **API Development** - Building robust RESTful APIs and microservices
+- 📱 **Progressive Web Apps** - Developing cross-platform web applications
 
 ---
 
