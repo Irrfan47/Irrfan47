@@ -14,7 +14,7 @@
 
 I'm a passionate **Computer Science student** at Albukhary International University with a strong foundation in web development and a keen interest in building modern, scalable web applications. I enjoy solving complex problems and creating innovative solutions that make a difference.
 
-- 🔭 Currently working on **Web Application Vulnerability Scanner** (Final Year Project)
+- 🔭 Currently looking for projects to work on
 - 🌱 Learning **Advanced Web Development** techniques and modern frameworks
 - 💼 Open to **freelance opportunities** and **collaborations**
 - 📫 Reach me at: **kaungkhant12359@gmail.com**
