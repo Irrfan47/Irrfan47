@@ -37,7 +37,7 @@ I am a Full-Stack Web Developer with a strong focus on building scalable web app
 - **ProcureFlow:** A comprehensive Procurement Management system.
 - **Allocation Management System:** A dedicated system developed for the Kedah government.
 - **Web Application Vulnerability Scanner:** A security tool engineered to identify common web vulnerabilities.
-- **Personal Portfolio:** An AI-integrated developer portfolio deployed via Azure Static Web Apps.
+- **Personal Portfolio:** An AI-integrated developer portfolio deployed via Cloudflare.
 
 ## 📊 GitHub Stats
 
