@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Kaung Khant Mg Mg (Irrfan) 👋</h1>
   <h3>Full-Stack Web Developer & Software Engineer</h3>
-  <a href="https://portfolio.xz3tt.dev">Portfolio</a> • <a href="https://www.linkedin.com/in/kaung-khant-mg-mg-26a98821a/">LinkedIn</a> • <a href="mailto:kaungkhant12359@gmail.com">Email</a>
+  <a href="https://portfolio.xzett.me">Portfolio</a> • <a href="https://www.linkedin.com/in/kaung-khant-mg-mg-26a98821a/">LinkedIn</a> • <a href="mailto:kaungkhant12359@gmail.com">Email</a>
 </div>
 
 <br/>
